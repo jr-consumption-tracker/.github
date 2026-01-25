@@ -27,7 +27,7 @@ Modern frontend monorepo with React/Next.js. Includes both the user interface an
 
 ## 🚀 Tech Stack
 
-**Backend:** PHP 8.3, MySQL, Docker  
+**Backend:** PHP 8.4, MySQL, Docker  
 **Frontend:** React, Next.js, TypeScript  
 **Tools:** Turborepo/Nx, Composer
 
