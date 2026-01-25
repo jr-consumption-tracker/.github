@@ -11,7 +11,7 @@ A modern web application for monitoring and managing utility consumption data. B
 ## 🏗️ Projects
 
 ### [consumption-api](https://github.com/jr-consumption-tracker/consumption-api)
-RESTful API backend built with PHP 8.3+ and MySQL. Handles all data processing, storage, and business logic.
+RESTful API backend built with PHP 8.4+ and MySQL. Handles all data processing, storage, and business logic.
 
 ### [consumption-web](https://github.com/jr-consumption-tracker/consumption-web)
 Modern frontend monorepo with React/Next.js. Includes both the user interface and admin dashboard.
